@@ -3,43 +3,43 @@
         "id": 1,
         "title": "INSIDE THE TORNADO",
         "text":"In Inside the Tornado, a National Geographic-sponsored team of storm chasers and photographers manages to position an armoured device with cameras in the direct path of a tornado near Manchester, South Dakota.",
-        "img-url":"1.jpg"
+        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/science/science-images/1.jpg"
     },
     {
         "id": 2,
         "title": "COSMOS: POSSIBLE WORLDS",
         "text":"Cosmos: A Spacetime Odyssey is a brand new season of Cosmos: Possible Worlds.",
-        "img-url":"2.jpg"
+        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/science/science-images/2.jpg"
     },
     {
         "id": 3,
         "title": "ULTIMATE MARS CHALLENGE",
         "text":"This past August, a NASA rover named Curiosity touched down inside Mars’ Gale crater.",
-        "img-url":"3.jpg"
+        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/science/science-images/3.jpg"
     },
     {
         "id": 4,
         "title": "RESCUED",
         "text":"Telling dramatic real-life stories from across the globe using footage captured by the rescuers themselves.",
-        "img-url":"4.jpg"
+        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/science/science-images/4.jpg"
     },
     {
         "id": 5,
         "title": "MARMUM",
         "text":"In Al Lisaili in the UAE, an ambitious project is underway – a modern dairy farm.",
-        "img-url":"5.jpg"
+        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/science/science-images/5.jpg"
     },
     {
         "id": 6,
         "title": "HIGH MAINTENANCE",
         "text":"Building a complex structure or system requires care and attention to detail.",
-        "img-url":"6.jpg"
+        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/science/science-images/6.jpg"
     },
     {
         "id": 7,
         "title": "A TRAVELLER'S GUIDE TO THE PLANETS",
         "text":"Today's super space traveller must endure drastic climates that shift from 450 degrees celsius in the sun to minus 170 celsius in the shade.",
-        "img-url":"7.jpg"
+        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/science/science-images/7.jpg"
     }
     
 ]
