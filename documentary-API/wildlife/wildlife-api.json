@@ -3,73 +3,73 @@
         "id": 1,
         "title": "DEADLIEST WEEK",
         "text":"Following the path forged in series one and two, Deadly Dozen series three takes viewers on a fascinating and frightening new journey, bringing them face to face with more of the world's most dangerous creatures.",
-        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/1.jpg"
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/1.jpg"
     },
     {
         "id": 2,
         "title": "BIG CAT WEEK",
         "text":"National Geographic Abu Dhabi presents a week dedicated to nature's fiercest felines-big cats. These creatures of magnificent strength, ferocity and beauty are rapidly facing extinction. Get closer than ever to lions, tigers, cheetahs, panthers, and more as you share in their triumphs, defeats, and epic struggles to survive.",
-        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/2.jpg"
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/2.jpg"
     },
     {
         "id": 3,
         "title": "GREAT MIGRATIONS",
         "text":"National Geographic Channel's Great Migrations is a seven-part global television event that takes viewers around the world on the arduous journeys millions of animals undertake to ensure the survival of their species. Shot from land and air, in trees and cliff-blinds, on ice floes and underwater, Great Migrations tells the formidable, powerful stories of many of the planet's species and their movements, while revealing new scientific discoveries with breathtaking high-definition clarity.",
-        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/3.jpg"
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/3.jpg"
     },
     {
         "id": 4,
         "title": "ANIMALS GONE WILD",
         "text":"From the heart stopping to the simply outrageous we bring you the most jaw dropping moments in Animals Gone Wild. It’s the roughest and rowdiest animals moments in Disorderly Conduct. Creatures cheating death and defying laws of nature in Crazy Close Calls.",
-        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/4.jpg"
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/4.jpg"
     },
     {
         "id": 5,
         "title": "KINGDOM OF THE APES",
         "text":"Deep in the disappearing jungles of Africa, the secrets of the most mesmerizing and endangered creatures on this planet are being revealed.",
-        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/5.jpg"
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/5.jpg"
     },
     {
         "id": 6,
         "title": "BORN IN AFRICA ",
         "text":"We will be able to follow each stage of these cute little fluff balls growing up.",
-        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/6.jpg"
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/6.jpg"
     },
     {
         "id": 7,
         "title": "KINGDOM OF THE WHITE WOLF",
         "text":"As Winter approaches, the pack is running out of food and needs a fresh kill. White Scarf leads the pack in a successful hunt of a muskox calf, and ensures that the pups eat first.",
-        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/7.jpg"
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/7.jpg"
     },
     {
         "id": 8,
         "title": "COUNTING TIGERS",
         "text":"Fewer than 4,000 wild tigers remain in the world. As one of Earth's most iconic animals battles for its survival, one country - India - holds the key.",
-        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/8.jpg"
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/8.jpg"
     },
     {
         "id": 9,
         "title": "WILD HUNTERS",
         "text":"Wild Hunters is a spectacular journey around the world in search of nature's deadliest predators.",
-        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/9.jpg"
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/9.jpg"
     },
     {
         "id": 10,
         "title": "INTO THE OKAVANGO",
         "text":"The Okavango River Basin provides a vital source of water to about 1 million people, the world's largest population of African elephants and significant populations of lions, cheetahs and hundreds of species of birds.",
-        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/10.jpg"
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/10.jpg"
     },
     {
         "id": 11,
         "title": "POLAR BEAR",
         "text":"Polar bears are at the top of the food chain and have an important role in the overall health of the marine environment.",
-        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/11.jpg"
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/11.jpg"
     },
     {
         "id": 12,
         "title": "UNTAMED WILD",
         "text":"National Geographic Abu Dhabi brings 10 hours of bespoke of thrilling programming and dedicated, to natur's fiercest big cats-creatures of magnificent strength, ferocity and beauty.",
-        "img-url":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/12.jpg"
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/wildlife/wildlife-images/12.jpg"
     }
     
 ]
