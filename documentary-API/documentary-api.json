@@ -1,0 +1,210 @@
+{
+    "wildlife" : [
+        {
+            "id": 1,
+            "title": "DEADLIEST WEEK",
+            "text":"Following the path forged in series one and two, Deadly Dozen series three takes viewers on a fascinating and frightening new journey, bringing them face to face with more of the world's most dangerous creatures.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/w1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "BIG CAT WEEK",
+            "text":"National Geographic Abu Dhabi presents a week dedicated to nature's fiercest felines-big cats. These creatures of magnificent strength, ferocity and beauty are rapidly facing extinction. Get closer than ever to lions, tigers, cheetahs, panthers, and more as you share in their triumphs, defeats, and epic struggles to survive.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/w2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "GREAT MIGRATIONS",
+            "text":"National Geographic Channel's Great Migrations is a seven-part global television event that takes viewers around the world on the arduous journeys millions of animals undertake to ensure the survival of their species. Shot from land and air, in trees and cliff-blinds, on ice floes and underwater, Great Migrations tells the formidable, powerful stories of many of the planet's species and their movements, while revealing new scientific discoveries with breathtaking high-definition clarity.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/w3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "ANIMALS GONE WILD",
+            "text":"From the heart stopping to the simply outrageous we bring you the most jaw dropping moments in Animals Gone Wild. It’s the roughest and rowdiest animals moments in Disorderly Conduct. Creatures cheating death and defying laws of nature in Crazy Close Calls.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/w4.jpg"
+        },
+        {
+            "id": 5,
+            "title": "KINGDOM OF THE APES",
+            "text":"Deep in the disappearing jungles of Africa, the secrets of the most mesmerizing and endangered creatures on this planet are being revealed.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/w5.jpg"
+        },
+        {
+            "id": 6,
+            "title": "BORN IN AFRICA ",
+            "text":"We will be able to follow each stage of these cute little fluff balls growing up.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/w6.jpg"
+        },
+        {
+            "id": 7,
+            "title": "KINGDOM OF THE WHITE WOLF",
+            "text":"As Winter approaches, the pack is running out of food and needs a fresh kill. White Scarf leads the pack in a successful hunt of a muskox calf, and ensures that the pups eat first.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/w7.jpg"
+        },
+        {
+            "id": 8,
+            "title": "COUNTING TIGERS",
+            "text":"Fewer than 4,000 wild tigers remain in the world. As one of Earth's most iconic animals battles for its survival, one country - India - holds the key.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/w8.jpg"
+        },
+        {
+            "id": 9,
+            "title": "WILD HUNTERS",
+            "text":"Wild Hunters is a spectacular journey around the world in search of nature's deadliest predators.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/w9.jpg"
+        },
+        {
+            "id": 10,
+            "title": "INTO THE OKAVANGO",
+            "text":"The Okavango River Basin provides a vital source of water to about 1 million people, the world's largest population of African elephants and significant populations of lions, cheetahs and hundreds of species of birds.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/w10.jpg"
+        },
+        {
+            "id": 11,
+            "title": "POLAR BEAR",
+            "text":"Polar bears are at the top of the food chain and have an important role in the overall health of the marine environment.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/w11.jpg"
+        },
+        {
+            "id": 12,
+            "title": "UNTAMED WILD",
+            "text":"National Geographic Abu Dhabi brings 10 hours of bespoke of thrilling programming and dedicated, to natur's fiercest big cats-creatures of magnificent strength, ferocity and beauty.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/w12.jpg"
+        }
+        
+    ],
+
+    "science" : [
+        {
+            "id": 1,
+            "title": "INSIDE THE TORNADO",
+            "text":"In Inside the Tornado, a National Geographic-sponsored team of storm chasers and photographers manages to position an armoured device with cameras in the direct path of a tornado near Manchester, South Dakota.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/s1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "COSMOS: POSSIBLE WORLDS",
+            "text":"Cosmos: A Spacetime Odyssey is a brand new season of Cosmos: Possible Worlds.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/s2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "ULTIMATE MARS CHALLENGE",
+            "text":"This past August, a NASA rover named Curiosity touched down inside Mars’ Gale crater.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/s3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "RESCUED",
+            "text":"Telling dramatic real-life stories from across the globe using footage captured by the rescuers themselves.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/s4.jpg"
+        },
+        {
+            "id": 5,
+            "title": "MARMUM",
+            "text":"In Al Lisaili in the UAE, an ambitious project is underway – a modern dairy farm.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/s5.jpg"
+        },
+        {
+            "id": 6,
+            "title": "HIGH MAINTENANCE",
+            "text":"Building a complex structure or system requires care and attention to detail.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/s6.jpg"
+        },
+        {
+            "id": 7,
+            "title": "A TRAVELLER'S GUIDE TO THE PLANETS",
+            "text":"Today's super space traveller must endure drastic climates that shift from 450 degrees celsius in the sun to minus 170 celsius in the shade.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/s7.jpg"
+        }
+        
+    ],
+
+    "history" : [
+        {
+            "id": 1,
+            "title": "EGYPT'S SECRETS",
+            "text":"We unlock Egypt's secret chambers to reveal centuries-old mysteries and magic.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/h1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "APOCALYPSE: THE SECOND WORLD WAR",
+            "text":"Apocalypse tells us about this huge conflict through the tragic destiny of those who went to war.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/h2.jpg"
+        },
+        {
+            "id": 3,
+            "title": "EGYPT'S SUN KING",
+            "text":"A team of archaeologists discover the first new tomb to contain a body since the tomb of Tutankhamon.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/h3.jpg"
+        },
+        {
+            "id": 4,
+            "title": "FLOODED TOMBS OF THE NILE",
+            "text":"Archaeologist's dive into a flooded pyramid near the Nile, to search for a king's burial that could reveal clues about the ancient kingdom of Kush.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/h4.jpg"
+        },
+        {
+            "id": 5,
+            "title": "UNFORGETTABLE HISTORY",
+            "text":"he 1-hour weekly block highlights historical events that shaped the course of the world.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/h5.jpg"
+        },
+        {
+            "id": 6,
+            "title": "BACK TO THE TITANIC",
+            "text":"Mission Titanic documents the first manned dives to Titanic in nearly 15 years.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/h6.jpg"
+        },
+        {
+            "id": 7,
+            "title": "PETRA SECRETS",
+            "text":"In the heart of the Jordanian desert, the ancient city of Petra is full of mysteries.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/h7.jpg"
+        }
+        
+    ],
+
+    "disaster" : [
+        {
+            "id": 1,
+            "title": "WITNESS TO DISASTER",
+            "text":"Eyewitness; compelling stories of disaster, told through the eyes of those who were there.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/d1.jpg"
+        },
+        {
+            "id": 2,
+            "title": "TRAPPED",
+            "text":"When sixteen men are trapped in the Andes for more than 10 weeks watching friends and family die around them with no sign of rescue.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/d2.jpg"
+        },
+        {
+            "id": 3,
+            "title": " BUILT FOR DESTRUCTION",
+            "text":"We put some of the most dangerous volcanoes in the world under the spotlight and find out how they're able to wipe out cities.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/d3.jpg"
+        },
+        {
+            "id": 4,
+            "title": " SECONDS FROM DISASTER",
+            "text":"In early 1954, one of the world’s first passenger jet airliners, the British-made de Havilland Comet.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/d4.jpg"
+        },
+        {
+            "id": 5,
+            "title": " REBUILDING PARADISE",
+            "text":"On the morning of Nov. 8, 2018, a devastating firestorm engulfed the picturesque city of Paradise, California.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/d5.jpg"
+        },
+        {
+            "id": 6,
+            "title": " DESPERATE HOURS",
+            "text":"A sudden calamitous event, causing great loss of life, damage, or hardship, like a flood, a tornado, an airplane crash, or an earthquake.",
+            "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/d6.jpg"
+        }
+        
+    ]
+
+}
