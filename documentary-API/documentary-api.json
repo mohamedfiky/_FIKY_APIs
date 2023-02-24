@@ -114,7 +114,7 @@
         },
         {
             "id": 7,
-            "title": "A TRAVELLER'S GUIDE TO THE PLANETS",
+            "title": "GUIDE TO THE PLANETS",
             "text":"Today's super space traveller must endure drastic climates that shift from 450 degrees celsius in the sun to minus 170 celsius in the shade.",
             "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/s7.jpg"
         }
@@ -130,7 +130,7 @@
         },
         {
             "id": 2,
-            "title": "APOCALYPSE: THE SECOND WORLD WAR",
+            "title": "APOCALYPSE: WORLD WAR II",
             "text":"Apocalypse tells us about this huge conflict through the tragic destiny of those who went to war.",
             "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/documentary-API/documentary-images/h2.jpg"
         },
