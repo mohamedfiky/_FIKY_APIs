@@ -4,4 +4,4 @@
 
 This repo is a collection of .json files to works as the Back-end part of the Front-end projects.
 
-For my fellow developers: Feel free to use it in your projects.
+For fellow developers: Feel free to use it in your projects.
