@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "title": "Panoramic Views",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/real-estate-API/real-estate-images/1.jpg",
+        "content":"This custom home built for News 8 anchor Larry Himmel and his wife, Joan, fuses Southwestern and contemporary design. The home’s open floor plan embraces outdoor living in a stunning natural environment."
+    },
+    {
+        "id": 2,
+        "title": "Soothing Modern",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/real-estate-API/real-estate-images/2.jpg",
+        "content":"This artistic master bathroom emphasizes soft light and airiness. A luxurious tub and shower invite self care and relaxation. Neutral colors and clean lines are balanced with natural woods for a thoroughly modern design that feels warm and welcoming."
+    },
+    {
+        "id": 3,
+        "title": "Seaside Dazzle",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/real-estate-API/real-estate-images/3.jpg",
+        "content":"This seaside home was completely remodeled to maximize living space and to take advantage of its ideal location by creating a strong sense of indoor/outdoor living. The design skillfully blends beach, contemporary, and rustic elements."
+    },
+    {
+        "id": 4,
+        "title": "Blooming Glamour",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/real-estate-API/real-estate-images/4.jpg",
+        "content":"Illuminated by a glittering chandelier, the tub in this glamorous master bathroom is an oasis of relaxation under a wall mural of blooming flowers. Dual arches lead into a shower for two with views of gorgeous natural surroundings."
+    },
+    {
+        "id": 5,
+        "title": "Key West Resort",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/real-estate-API/real-estate-images/5.jpg",
+        "content":"This stunning Single Family home is located next to the 18th Fairway. With it's own private inground concrete lighted and heated pool, and tropical oasis with lush landscaping giving you the feel of being at a Key West Resort."
+    },
+    {
+        "id": 6,
+        "title": "Hillside Views",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/real-estate-API/real-estate-images/6.jpg",
+        "content":"This hillside remodeled home with captivating views is the dream of a couple who wanted a beautiful home to grow old in together and to enjoy now with their teenager and beloved rescue Labradors."
+    },
+    {
+        "id": 7,
+        "title": "Ocean View Minimalism",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/real-estate-API/real-estate-images/7.jpg",
+        "content":"Designed for a retired couple who appreciate minimalist design, this clean, contemporary new home makes a memorable statement with open space planning, a monochromatic color palette, and gorgeous ocean views."
+    },
+    {
+        "id": 8,
+        "title": "European Minimalism",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/real-estate-API/real-estate-images/8.jpg",
+        "content":"Accustomed to a European way of life, a couple who moved to a San Diego neighborhood with their two children wanted to dramatically change their suburban kitchen while retaining a sense of place. Now open and full of light, this kitchen and living space beautifully inhabits its surroundings."
+    },
+    {
+        "id": 9,
+        "title": "Farmhouse Reflection",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/real-estate-API/real-estate-images/9.jpg",
+        "content":"This guest house is in the backyard of a modern farmhouse just a short walk from the beach. Encompassed in their whole home remodel project, the clients wanted their guest house, remodeled from an existing structure, to reflect the same design aesthetic. Many of the same elements and finishes are integrated in the guest home, including a Dutch front door and wooden beams."
+    },
+    {
+        "id": 10,
+        "title": "Mountain View Estate",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/real-estate-API/real-estate-images/10.png",
+        "content":"Influenced by Prairie style and Craftsman design, this award winning contemporary Southern California estate on six acres inspires a relaxed lifestyle surrounded by breathtaking 360 degree views."
+    },
+    {
+        "id": 11,
+        "title": "Inviting Chef’s Kitchen",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/real-estate-API/real-estate-images/11.jpg",
+        "content":"For a couple who enjoy welcoming friends and family into their home by a scenic golf course, this inviting kitchen was designed with all the elements a home chef loves to have at hand. Custom cabinetry with meticulous molding detail surrounds gleaming stainless steel appliances."
+    },
+    {
+        "id": 12,
+        "title": "Cozy Contemporary",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/real-estate-API/real-estate-images/12.jpg",
+        "content":"This new build ADU is a detached structure built for a married couple with two young children as a rental property. They wanted to avoid a “builder grade” approach, carefully selecting materials and finishes for a more custom look. A blue island in the kitchen illuminated by striking lighting is a notable focal point. In the bathroom, a walk-in shower gets a visual boost from a chic niche with octagon tile, echoed on the backsplash of the sink."
+    }
+ 
+]
