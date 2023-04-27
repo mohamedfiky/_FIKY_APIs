@@ -2,6 +2,6 @@
 
 ### My Fake API.
 
-This repo works as the Back-end part of my Front-end projects.
+This repo is a collection of .json files to works as the Back-end part of the Front-end projects.
 
-For developers: Feel free to use it in your projects.
+For my fellow developers: Feel free to use it in your projects.
