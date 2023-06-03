@@ -32,7 +32,7 @@
     {
         "id": 5,
         "productName": "مقلاة تروفال أحمر",
-        "productInfo":"مقلاة بغطاء زجاجى للمتابعة أثناء الطهى",
+        "productInfo":"بغطاء زجاجى للمتابعة أثناء الطهى",
         "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/5.jpg",
         "price":124,
         "isNewArrivals":true
@@ -389,7 +389,7 @@
     },
     {
         "id": 54,
-        "productName": "تروفال مجموعة أدوات طهى أحمر",
+        "productName": "تروفال مجموعة أدوات طهى",
         "productInfo":"أسطح ناعمة تمنع الإلتصاق",
         "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/54.jpg",
         "price":430,
@@ -617,7 +617,7 @@
     },
     {
         "id": 86,
-        "productName": "طقم كاسرولة بنى غطاء بيريكس",
+        "productName": "طقم كاسرولة غطاء بيريكس",
         "productInfo":"طقم 4 قطع بمقاسات مختلفة",
         "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/86.jpg",
         "price":620,
@@ -662,7 +662,7 @@
     {
         "id": 92,
         "productName": "قدر ضغط ميجافاسا أسود",
-        "productInfo":"قدر ضغط بسعة 10 لتر متعدد الإستخدامات",
+        "productInfo":"سعة 10 لتر متعدد الإستخدامات",
         "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/92.jpg",
         "price":700,
         "isBestSeller": true
