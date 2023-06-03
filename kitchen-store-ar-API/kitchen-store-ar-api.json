@@ -2,7 +2,7 @@
     {
         "id": 1,
         "productName": "طقم لازورد جرانيت أسود",
-        "productInfo":"أوانى طهى بأسطح ناعمة - 14 قطعة",
+        "productInfo":"طقم 14 قطعة متعدد الإستخدامات",
         "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/1.jpg",
         "price":790,
         "isBestSeller": true
@@ -93,7 +93,7 @@
     {
         "id": 13,
         "productName": "طقم لازورد جرانيت رمادى",
-        "productInfo":"أوانى طهى بأسطح ناعمة - 14 قطعة",
+        "productInfo":"طقم 13 قطعة متعدد الإستخدامات",
         "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/13.jpg",
         "price":790,
         "isNewArrivals": true
@@ -160,7 +160,7 @@
     {
         "id": 22,
         "productName": "طقم لازورد سيراميك أخضر",
-        "productInfo": "أوانى طهى بأسطح ناعمة - 14 قطعة",
+        "productInfo": "طقم 11 قطعة متعدد الإستخدامات",
         "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/22.jpg",
         "price":1099,
         "isBestSeller": true
@@ -389,8 +389,8 @@
     },
     {
         "id": 54,
-        "productName": "تروفال مجموعة أدوات طهى",
-        "productInfo":"أسطح ناعمة تمنع الإلتصاق",
+        "productName": "تروفال مجموعة طهى",
+        "productInfo":"بأسطح ناعمة تمنع الإلتصاق",
         "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/54.jpg",
         "price":430,
         "isBestSeller": true
@@ -617,7 +617,7 @@
     },
     {
         "id": 86,
-        "productName": "طقم كاسرولة غطاء بيريكس",
+        "productName": "كاسرولة غطاء بيريكس",
         "productInfo":"طقم 4 قطع بمقاسات مختلفة",
         "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/86.jpg",
         "price":620,
@@ -662,7 +662,7 @@
     {
         "id": 92,
         "productName": "قدر ضغط ميجافاسا أسود",
-        "productInfo":"سعة 10 لتر متعدد الإستخدامات",
+        "productInfo":"قدر ضغط بسعة 10 لتر متعدد الإستخدامات",
         "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/92.jpg",
         "price":700,
         "isBestSeller": true
