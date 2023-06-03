@@ -1,0 +1,671 @@
+[
+    {
+        "id": 1,
+        "productName": "طقم لازورد جرانيت أسود",
+        "productInfo":"أوانى طهى بأسطح ناعمة - 14 قطعة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/1.jpg",
+        "price":790,
+        "isBestSeller": true
+    },
+    {
+        "id": 2,
+        "productName": "طقم جرانيت أزرق",
+        "productInfo":"طقم 7 قطع + قطعة هدية",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/2.jpg",
+        "price":620,
+        "isNewArrivals":true
+    },
+    {
+        "id": 3,
+        "productName": "طقم حلل تفاحة جرانيت بلس",
+        "productInfo":"أسطح ناعمة تمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/3.jpg",
+        "price":350
+    },
+    {
+        "id": 4,
+        "productName": "حلة ضغط مياجافسا",
+        "productInfo":"حلة ضغط بسعة 14 لتر متعددة الإستخدامات",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/4.jpg",
+        "price":444
+    },
+    {
+        "id": 5,
+        "productName": "مقلاة تروفال أحمر",
+        "productInfo":"مقلاة بغطاء زجاجى للمتابعة أثناء الطهى",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/5.jpg",
+        "price":124,
+        "isNewArrivals":true
+    },
+    {
+        "id": 6,
+        "productName": "شواية إستانلس مقاوم للصدأ",
+        "productInfo":"شواية مزودة بشبكة لتوزيع الحرارة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/6.jpg",
+        "price":200
+    },
+    {
+        "id": 7,
+        "productName": "حلة نوفال أسود",
+        "productInfo":"بسطح ناعم يمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/7.jpg",
+        "price":90
+    },
+    {
+        "id": 8,
+        "productName": "طقم لازورد جرانيت أحمر",
+        "productInfo":"أوانى طهى بأسطح ناعمة - 12 قطعة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/8.jpg",
+        "price":790,
+        "isSimilarProduct": true
+    },
+    {
+        "id": 9,
+        "productName": "طقم كاسرولة الأمل أزرق",
+        "productInfo":"طقم كاسرولة 3 مقاسات مختلفة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/9.jpg",
+        "price":260,
+        "isBestSeller": true
+    },
+    {
+        "id": 10,
+        "productName": "شواية جرانيت لازورد",
+        "productInfo":"شواية جرانيت عميقة لشوى اللحوم",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/10.jpg",
+        "price":99
+    },
+    {
+        "id": 11,
+        "productName": "طقم حلل تيفال أزرق",
+        "productInfo":"طقم 4 قطع بمقاسات مختلفة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/11.jpg",
+        "price":470,
+        "isNewArrivals":true
+    },
+    {
+        "id": 12,
+        "productName": "طقم حلل دروبينا لون برونزى",
+        "productInfo":"طقم 3 قطع بغطاء بيريكس",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/12.jpg",
+        "price":480,
+        "isBestSeller": true
+    },
+    {
+        "id": 13,
+        "productName": "طقم لازورد جرانيت رمادى",
+        "productInfo":"أوانى طهى بأسطح ناعمة - 14 قطعة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/13.jpg",
+        "price":790,
+        "isNewArrivals": true
+    },
+    {
+        "id": 14,
+        "productName": "حلة سوداء بغطاء مثقوب",
+        "productInfo":"بغطاء يعمل كمصفاه مخصصة للمعكرونة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/14.jpg",
+        "price":120
+    },
+    {
+        "id": 15,
+        "productName": "تروفال مجموعة أدوات طهى",
+        "productInfo":"أسطح ناعمة تمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/15.jpg",
+        "price":350
+    },
+    {
+        "id": 16,
+        "productName": "مقلاة جرانيت أسود",
+        "productInfo":"مقلاة متعددة الإستخدامات",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/16.jpg",
+        "price":70
+    },
+    {
+        "id": 17,
+        "productName": "حلة تيفال زهران",
+        "productInfo": "بسطح ناعم يمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/17.jpg",
+        "price":124,
+        "isBestSeller": true
+    },
+    {
+        "id": 18,
+        "productName": "إناء جرانيت أسود",
+        "productInfo":"مزود بغطاء لحفظ الحرارة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/18.jpg",
+        "price":135
+    },
+    {
+        "id": 19,
+        "productName": "حلة تيفال أسود",
+        "productInfo": "حلة ومصفاة 2 × 1",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/19.jpg",
+        "price":390,
+        "isNewArrivals":true
+    },
+    {
+        "id": 20,
+        "productName": "طقم كاسرولة الأمل برونزى",
+        "productInfo": "بأيدى خشبية عازلة للحرارة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/20.jpg",
+        "price":290,
+        "isNewArrivals": true
+    },
+    {
+        "id": 21,
+        "productName": "طقم تيفال زهران",
+        "productInfo":"أوانى طهى بأسطح ناعمة - 9 قطع",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/21.jpg",
+        "price":460
+    },
+    {
+        "id": 22,
+        "productName": "طقم لازورد سيراميك أخضر",
+        "productInfo": "أوانى طهى بأسطح ناعمة - 14 قطعة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/22.jpg",
+        "price":1099,
+        "isBestSeller": true
+    },
+    {
+        "id": 23,
+        "productName": "لبانة جرانيت",
+        "productInfo": "بسطح ناعم يمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/23.jpg",
+        "price":270
+    },
+    {
+        "id": 24,
+        "productName": "كاسرولة ألومنيوم بومبيه",
+        "productInfo":"كاسرولة ألومنيوم بيد إستانليس مقاس 14",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/24.jpg",
+        "price":80
+    },
+    {
+        "id": 25,
+        "productName": "إناء طهى نيو فلام",
+        "productInfo":"إناء طهى جرانيت أسود مقاس 17",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/25.jpg",
+        "price":135
+    },
+    {
+        "id": 26,
+        "productName": "طقم كاسرولة الأمل أحمر",
+        "productInfo":"طقم كاسرولة 3 مقاسات مختلفة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/26.jpg",
+        "price":290
+    },
+    {
+        "id": 27,
+        "productName": "حلة ضغط كليبسو بلاس",
+        "productInfo":"حلة ضغط بسعة 12 لتر مزودة بتايمر",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/27.jpg",
+        "price":750,
+        "isNewArrivals":true
+    },
+    {
+        "id": 28,
+        "productName": "شواية جريل تايم ليس أزرق",
+        "productInfo": "شواية عميقة لشوى اللحوم بغطاء ذاتى",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/28.jpg",
+        "price":333
+    },
+    {
+        "id": 29,
+        "productName": "حلة ألومونيوم بيد ستانليس",
+        "productInfo": "حلة ألومنيوم مصرى مقاس 12",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/29.jpg",
+        "price":74
+    },
+    {
+        "id": 30,
+        "productName": "حلة سيراميك أسود الملكة",
+        "productInfo": "بأيدى خشبية عازلة للحرارة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/30.jpg",
+        "price":210,
+        "isBestSeller": true
+    },
+    {
+        "id": 31,
+        "productName": "شواية جرانيت لازورد أخضر",
+        "productInfo": "بسطح ناعم يمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/31.jpg",
+        "price":190
+    },
+    {
+        "id": 32,
+        "productName": "صينية إستانليس بغطاء",
+        "productInfo": "مزودة بغطاء لحفظ الحرارة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/32.jpg",
+        "price":90
+    },
+    {
+        "id": 33,
+        "productName": "طقم لازورد جرانيت رمادى فاتح",
+        "productInfo":"أوانى طهى بأسطح ناعمة - 13 قطعة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/33.jpg",
+        "price":1260
+    },
+    {
+        "id": 34,
+        "productName": "شواية بوتوجاز روكى أسود",
+        "productInfo": "شواية مزودة بشبكة لتوزيع الحرارة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/34.jpg",
+        "price":115
+    },
+    {
+        "id": 35,
+        "productName": "حلة ضغط كليبسو",
+        "productInfo": "حلة ضغط بسعة 10 لتر متعددة الإستخدامات",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/35.jpg",
+        "price":770
+    },
+    {
+        "id": 36,
+        "productName": "نيوكلين طقم جرانيت بنى",
+        "productInfo": "طقم 7 قطع + قطعة هدية",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/36.jpg",
+        "price":620
+    },
+    {
+        "id": 37,
+        "productName": "كاسرولة سوداء بغطاء إستانليس",
+        "productInfo": "مقاسات مختلفة 12-13-14",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/37.jpg",
+        "price":190
+    },
+    {
+        "id": 38,
+        "productName": "حلة تيفال زهران",
+        "productInfo": "بسطح ناعم يمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/38.jpg",
+        "price":120
+    },
+    {
+        "id": 39,
+        "productName": "صينية فرن جرانيت أزرق",
+        "productInfo": "مزودة بغطاء لحفظ الحرارة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/39.jpg",
+        "price":350
+    },
+    {
+        "id": 40,
+        "productName": "طقم كاسرولة الأمل أسود",
+        "productInfo": "طقم كاسرولة 3 مقاسات مختلفة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/40.jpg",
+        "price":222
+    },
+    {
+        "id": 41,
+        "productName": "شواية جرانيت لازورد بيج",
+        "productInfo": "بسطح ناعم يمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/41.jpg",
+        "price":170
+    },
+    {
+        "id": 42,
+        "productName": "طقم حلل تيفال زهران",
+        "productInfo": "أوانى طهى بأسطح ناعمة - 9 قطع",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/42.jpg",
+        "price":800
+    },
+    {
+        "id": 43,
+        "productName": "كاسرولة نوفال كحلى",
+        "productInfo": "بغطاء يعمل على حفظ الحرارة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/43.jpg",
+        "price":190
+    },
+    {
+        "id": 44,
+        "productName": "لبانة سيراميك أبيض",
+        "productInfo": "بسطح ناعم يمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/44.jpg",
+        "price":690,
+        "isBestSeller": true
+    },
+    {
+        "id": 45,
+        "productName": "كاسرولة الأمل أسود",
+        "productInfo": "مقاسات مختلفة 12-13-14",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/45.jpg",
+        "price":160
+    },
+    {
+        "id": 46,
+        "productName": "طقم تيفال زهران",
+        "productInfo": "مكون من 3 حلل ومصفاة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/46.jpg",
+        "price":499,
+        "isNewArrivals": true
+    },
+    {
+        "id": 47,
+        "productName": "تروفال مجموعة أدوات طهى",
+        "productInfo":"طقم 6 قطع متعدد الإستخدامات",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/47.jpg",
+        "price":570
+    },
+    {
+        "id": 48,
+        "productName": "مقلاة عميقة من دروبال",
+        "productInfo": "مزودة بغطاء لحفظ الحرارة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/48.jpg",
+        "price":180
+    },
+    {
+        "id": 49,
+        "productName": " الملكة قدر ضغط جرانيت أسود",
+        "productInfo": "قدر ضغط بسعة 10 لتر متعدد الإستخدامات",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/49.jpg",
+        "price":790
+    },
+    {
+        "id": 50,
+        "productName": "طقم جرانيت أزرق نيوكلين",
+        "productInfo":"طقم 5 قطع + قطعة هدية",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/50.jpg",
+        "price":420
+    },
+    {
+        "id": 51,
+        "productName": "حلة ألومنيوم عادية",
+        "productInfo": "حلة ألومنيوم مصرى مقاس 10",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/51.jpg",
+        "price":50
+    },
+    {
+        "id": 52,
+        "productName": "طاسة سوداء لامعة",
+        "productInfo": "بسطح ناعم يمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/52.jpg",
+        "price":90,
+        "isSimilarProduct": true
+    },
+    {
+        "id": 53,
+        "productName": "طقم أوانى نحاس ",
+        "productInfo": "طقم نحاس كلاسيك 6 قطع",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/53.jpg",
+        "price":1214
+    },
+    {
+        "id": 54,
+        "productName": "تروفال مجموعة أدوات طهى أحمر",
+        "productInfo":"أسطح ناعمة تمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/54.jpg",
+        "price":430,
+        "isBestSeller": true
+    },
+    {
+        "id": 55,
+        "productName": "حلة تيفال أسود",
+        "productInfo":"بسطح ناعم يمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/55.jpg",
+        "price":90
+    },
+    {
+        "id": 56,
+        "productName": "طقم ألومنيوم عادى",
+        "productInfo": "طقم 5 قطع + قطعة هدية",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/56.jpg",
+        "price":690
+    },
+    {
+        "id": 57,
+        "productName": "مقلاة بسطح جرانيت أسود",
+        "productInfo": "مقلاة متعددة الإستخدامات",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/57.jpg",
+        "price":260
+    },
+    {
+        "id": 58,
+        "productName": "إناء ضغط كليبسو",
+        "productInfo": "مقاس صغير بسعة 6 لتر",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/58.jpg",
+        "price":390
+    },
+    {
+        "id": 59,
+        "productName": "تروفال طقم مقالى",
+        "productInfo":  "مقاسين مختلفين و أسطح ناعمة تمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/59.jpg",
+        "price":170
+    },
+    {
+        "id": 60,
+        "productName": "حلة تيفال لون برونزى",
+        "productInfo": "بغطاء و أيدى من الإستانليس",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/60.jpg",
+        "price":180,
+        "isBestSeller": true
+    },
+    {
+        "id": 61,
+        "productName": "عبور سيناء حلة ضغط",
+        "productInfo": "حلة ضغط بسعة 14 لتر متعددة الإستخدامات",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/61.jpg",
+        "price":790
+    },
+    {
+        "id": 62,
+        "productName": "كاسرولة سوداء يد إستانليس",
+        "productInfo": "مزود بغطاء لحفظ الحرارة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/62.jpg",
+        "price":120
+    },
+    {
+        "id": 63,
+        "productName": "طقم حلل تفاحة جرانيت بلس",
+        "productInfo":"أسطح ناعمة تمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/63.jpg",
+        "price":550
+    },
+    {
+        "id": 64,
+        "productName": "طقم طاسة بيضاء",
+        "productInfo": "يأيدى نحاس عازل للحرارة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/64.jpg",
+        "price":244,
+        "isBestSeller": true
+    },
+    {
+        "id": 65,
+        "productName": "حلة تيفال زهران",
+        "productInfo": "بسطح ناعم يمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/65.jpg",
+        "price":124
+    },
+    {
+        "id": 66,
+        "productName": "حلة سوداء بغطاء إستانليس مثقوب",
+        "productInfo":"بغطاء يعمل كمصفاه مخصصة للمعكرونة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/66.jpg",
+        "price":300
+    },
+    {
+        "id": 67,
+        "productName": "طقم كاسرولة الأمل أسود",
+        "productInfo":" بأيدى إستانليس و سطح ناعم يمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/67.jpg",
+        "price":190
+    },
+    {
+        "id": 68,
+        "productName": "حلة نوفال أحمر",
+        "productInfo": "بغطاء من الإستانليس الإيطالى",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/68.jpg",
+        "price":190
+    },
+    {
+        "id": 69,
+        "productName": "طقم كاسرولة الأمل",
+        "productInfo":"طقم كاسرولة 3 مقاسات مختلفة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/69.jpg",
+        "price":260
+    },
+    {
+        "id": 70,
+        "productName": "قدر ضغط صغير",
+        "productInfo": "مقاس صغير بسعة 8 لتر",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/70.jpg",
+        "price":399
+    },
+    {
+        "id": 71,
+        "productName": "طقم جرانيت رصاصى نيوكلين",
+        "productInfo":"طقم 4 قطع بمقاسات مختلفة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/71.jpg",
+        "price":470
+    },
+    {
+        "id": 72,
+        "productName": "تروفال طقم مقالى سوداء",
+        "productInfo": "اليد قابلة للفك لتتحول إلى صوانى",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/72.jpg",
+        "price":480
+    },
+    {
+        "id": 73,
+        "productName": "حلة تيفال زهران",
+        "productInfo": " بمقابض سوداء و سطح يمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/73.jpg",
+        "price":190
+    },
+    {
+        "id": 74,
+        "productName": "حلة ضغط ألومنيوم",
+        "productInfo": "حلة ضغط بسعة 10 لتر متعددة الإستخدامات",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/74.jpg",
+        "price":720
+    },
+    {
+        "id": 75,
+        "productName": "طقم حلل تفاحة جرانيت بلس",
+        "productInfo":"أسطح ناعمة تمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/75.jpg",
+        "price":950
+    },
+    {
+        "id": 76,
+        "productName": "كاسرولة نوفال أحمر",
+        "productInfo":"مقاسات مختلفة 12-13-14",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/76.jpg",
+        "price":444
+    },
+    {
+        "id": 77,
+        "productName": "حلة ألومنيوم سوداء",
+        "productInfo": "بمصفاة داخلية تصلح لعمل المعكرونة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/77.jpg",
+        "price":324
+    },
+    {
+        "id": 78,
+        "productName": "دماسة فول إستانلس ستيل",
+        "productInfo": "متوفرة ب 3 مقاسات مختلفة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/78.jpg",
+        "price":200
+    },
+    {
+        "id": 79,
+        "productName": "طقم حلل نوفال أسود",
+        "productInfo":"بسطح ناعم يمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/79.jpg",
+        "price":590
+    },
+    {
+        "id": 80,
+        "productName": "طقم سيراميك رمادى",
+        "productInfo":"أوانى طهى بأسطح ناعمة - 6 قطعة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/80.jpg",
+        "price":490,
+        "isSimilarProduct": true
+    },
+    {
+        "id": 81,
+        "productName": "حلة ضغط بتايمر",
+        "productInfo": "مقاس صغير سعة 8 لتر",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/81.jpg",
+        "price":360
+    },
+    {
+        "id": 82,
+        "productName": "طاسة سوداء يد ستانليس",
+        "productInfo": "مقاسات مختلفة 12-13-14",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/82.jpg",
+        "price":99
+    },
+    {
+        "id": 83,
+        "productName": "طقم كاسرولة أسود غطاء بيريكس",
+        "productInfo":"طقم 4 قطع بمقاسات مختلفة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/83.jpg",
+        "price":270
+    },
+    {
+        "id": 84,
+        "productName": "طقم حلل دروبينا أسود",
+        "productInfo":"طقم 3 قطع بغطاء بيريكس",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/84.jpg",
+        "price":480
+    },
+    {
+        "id": 85,
+        "productName": "طقم نوفال جرانيت أسود",
+        "productInfo":"أوانى طهى بأسطح ناعمة - 6 قطع",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/85.jpg",
+        "price":490
+    },
+    {
+        "id": 86,
+        "productName": "طقم كاسرولة بنى غطاء بيريكس",
+        "productInfo":"طقم 4 قطع بمقاسات مختلفة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/86.jpg",
+        "price":620,
+        "isBestSeller": true
+    },
+    {
+        "id": 87,
+        "productName": "طقم جرانيت كوك إن عبود",
+        "productInfo":"أسطح ناعمة تمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/87.jpg",
+        "price":450
+    },
+    {
+        "id": 88,
+        "productName": "شواية جريل جرانيت كلاسيك",
+        "productInfo": "مقبض خشبى عازلة للحرارة",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/88.jpg",
+        "price":320
+    },
+    {
+        "id": 89,
+        "productName": "طقم حلل سيراميك أسود",
+        "productInfo":"بغطاء زجاجى للمتابعة أثناء الطهى",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/89.jpg",
+        "price":424
+    },
+    {
+        "id": 90,
+        "productName": "طقم حلل عروسة تروفال أحمر",
+        "productInfo": "طقم 7 قطع + قطعة هدية",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/90.jpg",
+        "price":600,
+        "isSimilarProduct": true
+    },
+    {
+        "id": 91,
+        "productName": "طقم كاسرولة زهران أسود",
+        "productInfo":"بسطح ناعم يمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/91.jpg",
+        "price":190
+    },
+    {
+        "id": 92,
+        "productName": "قدر ضغط ميجافاسا أسود",
+        "productInfo":"قدر ضغط بسعة 10 لتر متعدد الإستخدامات",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/92.jpg",
+        "price":700,
+        "isBestSeller": true
+    }
+
+]
