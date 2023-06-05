@@ -500,7 +500,7 @@
     },
     {
         "id": 61,
-        "productName": "عبور سيناء حلة ضغط",
+        "productName": "حلة ضغط عبور سيناء",
         "productInfo": "حلة ضغط بسعة 14 لتر متعددة الإستخدامات",
         "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/61.jpg",
         "price":790,
@@ -605,18 +605,18 @@
     },
     {
         "id": 74,
-        "productName": "حلة ضغط ألومنيوم",
-        "productInfo": "حلة ضغط بسعة 10 لتر متعددة الإستخدامات",
-        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/74.jpg",
-        "price":720,
-        "inPage7": true
-    },
-    {
-        "id": 75,
         "productName": "طقم حلل تفاحة جرانيت بلس",
         "productInfo":"أسطح ناعمة تمنع الإلتصاق",
         "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/75.jpg",
         "price":950,
+        "inPage7": true
+    },
+    {
+        "id": 75,
+        "productName": "حلة ضغط ألومنيوم",
+        "productInfo": "حلة ضغط بسعة 10 لتر متعددة الإستخدامات",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/74.jpg",
+        "price":720,
         "inPage7": true
     },
     {
@@ -752,9 +752,17 @@
     },
     {
         "id": 92,
+        "productName": "تروفال مجموعة طهى",
+        "productInfo":"لون أخضر و أسطح ناعمة تمنع الإلتصاق",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/92.jpg",
+        "price":530,
+        "inPage8": true
+    },
+    {
+        "id": 93,
         "productName": "قدر ضغط ميجافاسا أسود",
         "productInfo":"قدر ضغط بسعة 10 لتر",
-        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/92.jpg",
+        "imgUrl":"https://raw.githubusercontent.com/mohamedfiky/_FIKY_APIs/master/kitchen-store-ar-API/kitchen-store-ar-images/93.jpg",
         "price":700,
         "isBestSeller": true,
         "inPage8": true
